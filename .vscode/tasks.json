@@ -10,6 +10,7 @@
             "args": [
                 "${file}",
                 "-o",
+                "-std=c++11",
                 "${fileDirname}/${fileBasenameNoExtension}.out",
                 "-g"
             ],
