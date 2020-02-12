@@ -4,6 +4,8 @@
         "iterator": "cpp",
         "iosfwd": "cpp",
         "map": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "ostream": "cpp",
+        "ios": "cpp"
     }
 }
