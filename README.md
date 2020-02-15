@@ -1,11 +1,11 @@
 # LeetCode-Cpp
 
 ## array topic
-    1.<https://leetcode-cn.com/problems/two-sum/>
+1. <https://leetcode-cn.com/problems/two-sum/>
 
-    2.<https://leetcode-cn.com/problems/median-of-two-sorted-arrays/>
+    2. <https://leetcode-cn.com/problems/median-of-two-sorted-arrays/>
 
-    3.<https://leetcode-cn.com/problems/container-with-most-water/submissions/>
+    3. <https://leetcode-cn.com/problems/container-with-most-water/submissions/>
 
     4.<https://leetcode-cn.com/problems/3sum/submissions/>
 
