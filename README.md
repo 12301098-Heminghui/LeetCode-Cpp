@@ -26,6 +26,11 @@
 
 2.<https://leetcode-cn.com/problems/best-sequence-at-index-lcci/submissions/>
 
+3.https://leetcode-cn.com/problems/merge-intervals/
+
+4.<https://leetcode-cn.com/problems/insert-interval/submissions/>
+
+
 ### binary-search topic
 
 ### tree topic
