@@ -22,7 +22,9 @@
 10.<https://leetcode-cn.com/problems/search-in-rotated-sorted-array/submissions/>
 
 ### sort topic
-1.https://leetcode-cn.com/problems/smallest-k-lcci/submissions/
+1.<https://leetcode-cn.com/problems/smallest-k-lcci/submissions/>
+
+2.<https://leetcode-cn.com/problems/best-sequence-at-index-lcci/submissions/>
 
 ### binary-search topic
 
