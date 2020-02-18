@@ -30,6 +30,11 @@
 
 4.<https://leetcode-cn.com/problems/insert-interval/submissions/>
 
+5.<https://leetcode-cn.com/problems/sort-colors/>
+
+6.<https://leetcode-cn.com/problems/insertion-sort-list/submissions/>
+
+
 
 ### binary-search topic
 
