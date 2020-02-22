@@ -1,5 +1,7 @@
 //原题链接：
 // https://leetcode-cn.com/problems/insertion-sort-list/submissions/
+//对链表进行插入排序
+//注意点：需要设置tail指针，否则经过插入排序会出现环
 
 #include<vector>
 using namespace std;

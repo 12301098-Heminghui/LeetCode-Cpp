@@ -34,7 +34,13 @@
 
 6.<https://leetcode-cn.com/problems/insertion-sort-list/submissions/>
 
+7.<https://leetcode-cn.com/problems/largest-number/>
 
+8.<https://leetcode-cn.com/problems/sort-list/>
+
+9.<https://leetcode-cn.com/problems/valid-anagram/>
+
+10.
 
 ### binary-search topic
 
