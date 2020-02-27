@@ -44,6 +44,7 @@
 
 ### binary-search topic
 
+
 ### tree topic
 1.<https://leetcode-cn.com/problems/binary-tree-inorder-traversal/>
 
@@ -53,6 +54,13 @@
 
 4.<https://leetcode-cn.com/problems/binary-tree-preorder-traversal/>
 
+5.<https://leetcode-cn.com/problems/binary-tree-postorder-traversal/>
+
+6.<https://leetcode-cn.com/problems/binary-tree-level-order-traversal/>
+
+7.<https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/>
+
+8.<https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/>
 
 ### stack topic
 
