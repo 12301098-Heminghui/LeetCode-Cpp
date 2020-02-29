@@ -45,3 +45,35 @@ void travesal(vector<TreeNode*>& nodeVec, vector<vector<int>>& res){
     travesal(currVec, res);
 }
 };
+
+// 层次遍历，迭代方法
+
+class Solution {
+public:
+    vector<vector<int>> levelOrder(TreeNode* root) {
+        vector<vector<int>> res;
+        if(root == NULL){
+            return res;
+        }
+        //先进先出，用c++里的队列来实现
+        queue<TreeNode*> treeQueue;
+        treeQueue.push(root);
+        while(!treeQueue.empty()){
+            int length = treeQueue.size();
+            vector<int> tmp;
+            for(int i = 0; i < length; i++){
+                TreeNode* node = treeQueue.front();
+                treeQueue.pop();
+                tmp.push_back(node->val);
+                if(node->left){
+                    treeQueue.push(node->left);
+                }
+                if(node->right){
+                    treeQueue.push(node->right);
+                }
+            }
+            res.push_back(tmp);
+        }
+        return res;
+    }
+};
