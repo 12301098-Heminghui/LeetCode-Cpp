@@ -68,14 +68,20 @@
 
 10.<https://leetcode-cn.com/problems/validate-binary-search-tree/>
 
+
 ### string topic
 1.<https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/>
 
 2.<https://leetcode-cn.com/problems/longest-palindromic-substring/>
 
+
+
 ### stack topic
 
 ### linked-list topic
+1.<https://leetcode-cn.com/problems/reverse-linked-list/submissions/>
+
+
 
 ### dynamic-programming topic
 
