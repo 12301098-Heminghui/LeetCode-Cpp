@@ -46,6 +46,8 @@
 
 
 ### tree topic
+前序、中序、后序的Morris遍历方法：<https://www.cnblogs.com/anniekim/archive/2013/06/15/morristraversal.html>
+
 1.<https://leetcode-cn.com/problems/binary-tree-inorder-traversal/>
 
 2.<https://leetcode-cn.com/problems/unique-binary-search-trees/>
@@ -61,6 +63,15 @@
 7.<https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/>
 
 8.<https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/>
+
+9.<https://leetcode-cn.com/problems/symmetric-tree/>
+
+10.<https://leetcode-cn.com/problems/validate-binary-search-tree/>
+
+### string topic
+1.<https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/>
+
+2.<https://leetcode-cn.com/problems/longest-palindromic-substring/>
 
 ### stack topic
 
