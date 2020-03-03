@@ -77,3 +77,41 @@ vector<int> find(string s, int i, int j){
     return {left+1,right-1};
 }
 };
+
+
+// 方法三：动态规划（重点在于动态方程以及初始化）
+
+class Solution {
+public:
+    string longestPalindrome(string s) {
+        if(s.empty() || s.size() <= 1){
+            return s;
+        }
+        int n = s.size();
+        //初始化动态方程的数组
+        int res[n][n] = {0};//此处要初始化为0，否则默认值为随机值(局部变量数组，系统默认值为随机值)
+        res[0][0] = 1;
+        int start = 0;
+        int max = 1;
+        for(int i = 1; i < n; i++){
+            res[i][i] = 1;
+            if(s[i] ==  s[i-1]){
+                res[i-1][i] = 2;
+                start = i-1;
+                max = 2;
+            }
+        }
+
+        for(int l=3; l <= n; l++){
+            for(int i = 0; i <= n-l; i++){
+                int j = i+l-1;
+                if(s[i] == s[j] && res[i+1][j-1]){
+                    res[i][j] = l;
+                    start = i;
+                    max = l;
+                }
+            }
+        }
+        return s.substr(start, max);
+    }
+};
