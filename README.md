@@ -80,6 +80,12 @@
 3.<https://leetcode-cn.com/problems/zigzag-conversion/submissions/> 【按z字形排列的字符串，输出按行读取的字符串】
 
 4.<https://leetcode-cn.com/problems/string-to-integer-atoi/> 【字符串转成int数字】
+
+5.<https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/> 【电话号码对应的字符组合】
+
+6.<https://leetcode-cn.com/problems/generate-parentheses/> 【给定一个数字，生成所有有效的括号字符串】
+
+
 ### stack topic
 
 ### linked-list topic
