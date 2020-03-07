@@ -46,6 +46,10 @@
 10.
 
 ### binary-search topic
+1.<https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/> 【有序数据中，查找等于target的index左右边界】
+
+2.<https://leetcode-cn.com/problems/search-insert-position/> 【有序数组查找目标值的index。如果目标值不存在于数组中，返回它将会被按顺序插入的位置。】
+
 
 
 ### tree topic
@@ -96,8 +100,10 @@
 ### dynamic-programming topic
 
 ### math topic
+1.<https://leetcode-cn.com/problems/valid-sudoku/> 【判断一个9*9的数独是否合理】
 
 ### depth-first-search topic
+
 
 
  453.minimum-moves-to-equal-array-elements.cpp
