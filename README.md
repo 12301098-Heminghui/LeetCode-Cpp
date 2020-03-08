@@ -89,20 +89,34 @@
 
 6.<https://leetcode-cn.com/problems/generate-parentheses/> 【给定一个数字，生成所有有效的括号字符串】
 
+7.<https://leetcode-cn.com/problems/count-and-say/> 【countAndSay】
+
 
 ### stack topic
+
+
 
 ### linked-list topic
 1.<https://leetcode-cn.com/problems/reverse-linked-list/submissions/>
 
 2.<https://leetcode-cn.com/problems/swap-nodes-in-pairs/> 【两两交换相邻的节点】
 
+
+
 ### dynamic-programming topic
+
+
 
 ### math topic
 1.<https://leetcode-cn.com/problems/valid-sudoku/> 【判断一个9*9的数独是否合理】
 
+
+### backtracking (这个topic一般和dfs、bfs联合使用)
+1.<https://leetcode-cn.com/problems/combination-sum/> 【找出所有组合，组合元素和等于target】
+
+
 ### depth-first-search topic
+
 
 
 
