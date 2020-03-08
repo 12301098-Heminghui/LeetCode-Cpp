@@ -23,6 +23,10 @@
 
 11.图片(二维矩阵)顺时针90度翻转<https://leetcode-cn.com/problems/rotate-image/>
 
+12.<https://leetcode-cn.com/problems/first-missing-positive/> 【hard，找到数组中缺失的第一个正数】
+
+13.<https://leetcode-cn.com/problems/trapping-rain-water/> 【hard，接雨水】
+
 
 ### sort topic
 1.<https://leetcode-cn.com/problems/smallest-k-lcci/submissions/>
@@ -104,7 +108,7 @@
 
 
 ### dynamic-programming topic
-
+1.<https://leetcode-cn.com/problems/coin-change/> 【用最少的硬币，组成指定金额】
 
 
 ### math topic
@@ -114,6 +118,9 @@
 ### backtracking (这个topic一般和dfs、bfs联合使用)
 1.<https://leetcode-cn.com/problems/combination-sum/> 【找出所有组合，组合元素和等于target】
 
+2.<https://leetcode-cn.com/problems/combination-sum-ii/> 【原数组可能存在重复值，数组元素不可重复使用】
+
+3.<https://leetcode-cn.com/problems/coin-change/> 【用最少的硬币，组成指定金额】
 
 ### depth-first-search topic
 
