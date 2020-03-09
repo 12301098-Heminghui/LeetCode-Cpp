@@ -122,6 +122,9 @@
 
 3.<https://leetcode-cn.com/problems/coin-change/> 【用最少的硬币，组成指定金额】
 
+4.<https://leetcode-cn.com/problems/permutations/> 【给定一个无重复元素的数组，求其全排列】
+
+
 ### depth-first-search topic
 
 
