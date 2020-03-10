@@ -124,6 +124,8 @@
 
 4.<https://leetcode-cn.com/problems/permutations/> 【给定一个无重复元素的数组，求其全排列】
 
+5.<https://leetcode-cn.com/problems/permutations-ii> 【给定一个可能包含重复元素的数组，求其全排列】
+
 
 ### depth-first-search topic
 
