@@ -105,7 +105,7 @@
 
 2.<https://leetcode-cn.com/problems/swap-nodes-in-pairs/> 【两两交换相邻的节点】
 
-
+3.<https://leetcode-cn.com/problems/rotate-list/> 【给定数组k，链表向右旋转k步】
 
 ### dynamic-programming topic
 1.<https://leetcode-cn.com/problems/coin-change/> 【用最少的硬币，组成指定金额】
