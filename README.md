@@ -54,6 +54,7 @@
 
 2.<https://leetcode-cn.com/problems/search-insert-position/> 【有序数组查找目标值的index。如果目标值不存在于数组中，返回它将会被按顺序插入的位置。】
 
+3.<https://leetcode-cn.com/problems/find-the-duplicate-number/> 【找到数组中重复的数】
 
 
 ### tree topic
@@ -79,6 +80,7 @@
 
 10.<https://leetcode-cn.com/problems/validate-binary-search-tree/>
 
+11.<https://leetcode-cn.com/problems/binary-tree-right-side-view/> 【二叉树的右视结果】
 
 ### string topic
 1.<https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/>
@@ -105,7 +107,13 @@
 
 2.<https://leetcode-cn.com/problems/swap-nodes-in-pairs/> 【两两交换相邻的节点】
 
-3.<https://leetcode-cn.com/problems/rotate-list/> 【给定数组k，链表向右旋转k步】
+3.<https://leetcode-cn.com/problems/rotate-list/> 【给定数组k，链表向右旋转k】
+
+4.<https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/> 【LeetCode19 删除倒数第n个结点】
+
+5.<https://leetcode-cn.com/problems/reverse-nodes-in-k-group/> 【LeetCode25 每k个结点为一组进行翻转】
+
+6.<https://leetcode-cn.com/problems/reorder-list/> 【LeetCode143 链表重排序】
 
 ### dynamic-programming topic
 1.<https://leetcode-cn.com/problems/coin-change/> 【用最少的硬币，组成指定金额】
@@ -128,6 +136,9 @@
 
 
 ### depth-first-search topic
+1.<https://leetcode-cn.com/problems/number-of-islands/> 【岛屿】
+
+2.<https://leetcode-cn.com/problems/friend-circles/> 【盆友圈】
 
 
 
