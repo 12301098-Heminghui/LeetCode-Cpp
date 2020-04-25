@@ -27,6 +27,9 @@
 
 13.<https://leetcode-cn.com/problems/trapping-rain-water/> 【hard，接雨水】
 
+14.<https://leetcode-cn.com/problems/spiral-matrix/> 【LeetCode54 顺时针打印二维矩阵】
+
+15.<https://leetcode-cn.com/problems/jump-game/> 【LeetCode55 一维数组，跳跃游戏】
 
 ### sort topic
 1.<https://leetcode-cn.com/problems/smallest-k-lcci/submissions/>
@@ -115,6 +118,9 @@
 
 6.<https://leetcode-cn.com/problems/reorder-list/> 【LeetCode143 链表重排序】
 
+7.<https://leetcode-cn.com/problems/merge-k-sorted-lists/> 【LeetCode23 合并k个有序链表】
+
+
 ### dynamic-programming topic
 1.<https://leetcode-cn.com/problems/coin-change/> 【用最少的硬币，组成指定金额】
 
@@ -141,10 +147,19 @@
 2.<https://leetcode-cn.com/problems/friend-circles/> 【盆友圈】
 
 
+### greedy
+1.<https://leetcode-cn.com/problems/candy/> 【LeetCode135 贪心分发糖果】
+
+
+### dp
+1.<https://leetcode-cn.com/problems/edit-distance/> 【LeetCode72 字符串的编辑距离】
+
 
 
  453.minimum-moves-to-equal-array-elements.cpp
  
  
+
+
 # Others Algorithm(cpp)
 shoppe.cpp
