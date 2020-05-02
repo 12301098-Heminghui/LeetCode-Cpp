@@ -120,6 +120,8 @@
 
 7.<https://leetcode-cn.com/problems/merge-k-sorted-lists/> 【LeetCode23 合并k个有序链表】
 
+8.<https://leetcode-cn.com/problems/partition-list/> 【LeetCode#85 单项链表 小于目标值的在前，大于目标值的在后】
+
 
 ### dynamic-programming topic
 1.<https://leetcode-cn.com/problems/coin-change/> 【用最少的硬币，组成指定金额】
@@ -145,6 +147,8 @@
 1.<https://leetcode-cn.com/problems/number-of-islands/> 【岛屿】
 
 2.<https://leetcode-cn.com/problems/friend-circles/> 【盆友圈】
+
+3.<https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/> 【LeetCode124 二叉树最大路径和】
 
 
 ### greedy
