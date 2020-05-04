@@ -31,6 +31,8 @@
 
 15.<https://leetcode-cn.com/problems/jump-game/> 【LeetCode55 一维数组，跳跃游戏】
 
+16.<https://leetcode-cn.com/problems/spiral-matrix-ii/> 【LeetCode59 顺时针打印螺旋矩阵方阵】
+
 ### sort topic
 1.<https://leetcode-cn.com/problems/smallest-k-lcci/submissions/>
 
@@ -130,6 +132,8 @@
 ### math topic
 1.<https://leetcode-cn.com/problems/valid-sudoku/> 【判断一个9*9的数独是否合理】
 
+2.<https://leetcode-cn.com/problems/consecutive-numbers-sum/> 【LeetCode829 输出所有的连续正整数之和等于n的序列】
+
 
 ### backtracking (这个topic一般和dfs、bfs联合使用)
 1.<https://leetcode-cn.com/problems/combination-sum/> 【找出所有组合，组合元素和等于target】
@@ -141,6 +145,8 @@
 4.<https://leetcode-cn.com/problems/permutations/> 【给定一个无重复元素的数组，求其全排列】
 
 5.<https://leetcode-cn.com/problems/permutations-ii> 【给定一个可能包含重复元素的数组，求其全排列】
+
+6.<https://leetcode-cn.com/problems/permutation-sequence/> 【LeetCode60 返回第看个排列】
 
 
 ### depth-first-search topic
@@ -157,6 +163,12 @@
 
 ### dp
 1.<https://leetcode-cn.com/problems/edit-distance/> 【LeetCode72 字符串的编辑距离】
+
+2.<https://leetcode-cn.com/problems/unique-paths/> 【LeetCode62 机器人从二维矩阵的左上角到达右下角的路径方式】
+
+3.<https://leetcode-cn.com/problems/unique-paths-ii/> 【LeetCode63 机器人到达右下角的路径方式，二维矩阵有障碍物】
+
+4.<https://leetcode-cn.com/problems/minimum-path-sum/> 【LeetCode64 二维数组从左上角到右下角最少路径和】
 
 
 
